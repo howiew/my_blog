@@ -26,7 +26,7 @@
     "koa-router": "^7.3.0",
     "koa-session": "^5.12.3",
     "koa-static": "^3.0.0",
-    "markdown-it": "^8.4.0",
+    "markdown-it": "^12.3.2",
     "mavon-editor": "^2.4.16",
     "mysql": "^2.15.0",
     "sequelize": "^3.31.1",
